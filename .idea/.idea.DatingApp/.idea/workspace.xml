@@ -8,7 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3829217-af59-4a78-8197-9312a043f595" name="Changes" comment="" />
+    <list default="true" id="b3829217-af59-4a78-8197-9312a043f595" name="Changes" comment="no gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +39,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/API/appsettings.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Users/jassskalkat/Desktop/DatingApp/client/angular.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/jassskalkat/Desktop/DatingApp/client/node_modules/.package-lock.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5de1334596e547688f9972fef4c48845219600/a9/126e232a/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -131,6 +131,7 @@
       <workItem from="1722906125258" duration="303000" />
       <workItem from="1722906771672" duration="24000" />
       <workItem from="1722906875230" duration="323000" />
+      <workItem from="1722987127075" duration="716000" />
     </task>
     <task id="LOCAL-00001" summary="End of section 2">
       <option name="closed" value="true" />
@@ -180,7 +181,31 @@
       <option name="project" value="LOCAL" />
       <updated>1722907139122</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updating files">
+      <option name="closed" value="true" />
+      <created>1722987184832</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722987184832</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added">
+      <option name="closed" value="true" />
+      <created>1722987619853</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722987619853</updated>
+    </task>
+    <task id="LOCAL-00009" summary="no gitignore">
+      <option name="closed" value="true" />
+      <created>1722987821516</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722987821516</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +222,10 @@
     <MESSAGE value="adding ignored files" />
     <MESSAGE value="XML file" />
     <MESSAGE value="updated database files" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated database files" />
+    <MESSAGE value="updating files" />
+    <MESSAGE value="added" />
+    <MESSAGE value="no gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="no gitignore" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
