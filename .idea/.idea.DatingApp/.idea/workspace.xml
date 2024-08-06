@@ -8,7 +8,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3829217-af59-4a78-8197-9312a043f595" name="Changes" comment="no gitignore" />
+    <list default="true" id="b3829217-af59-4a78-8197-9312a043f595" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/API/dating.db-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/dating.db-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.angular/cache/18.1.3/client/.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/client/.angular/cache/18.1.3/client/.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +137,7 @@
       <workItem from="1722906125258" duration="303000" />
       <workItem from="1722906771672" duration="24000" />
       <workItem from="1722906875230" duration="323000" />
-      <workItem from="1722987127075" duration="716000" />
+      <workItem from="1722987127075" duration="1050000" />
     </task>
     <task id="LOCAL-00001" summary="End of section 2">
       <option name="closed" value="true" />
@@ -205,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722987821516</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added files">
+      <option name="closed" value="true" />
+      <created>1722987901824</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722987901824</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +239,8 @@
     <MESSAGE value="updating files" />
     <MESSAGE value="added" />
     <MESSAGE value="no gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="no gitignore" />
+    <MESSAGE value="added files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
