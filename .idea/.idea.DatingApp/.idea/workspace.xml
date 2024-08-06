@@ -80,7 +80,7 @@
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/opt/homebrew/lib/node_modules/prettier",
     "rider.code.cleanup.on.save": "true",
-    "settings.editor.selected.configurable": "preferences.general",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "/Users/jassskalkat/Desktop/DatingApp/client/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   },
@@ -140,6 +140,7 @@
       <workItem from="1722796832372" duration="4432000" />
       <workItem from="1722899672406" duration="333000" />
       <workItem from="1722906125258" duration="303000" />
+      <workItem from="1722906771672" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="End of section 2">
       <option name="closed" value="true" />
